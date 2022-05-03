@@ -17,4 +17,4 @@ maintainers:
   - name: cert-manager-maintainers
     email: cert-manager-maintainers@googlegroups.com
 annotations:
-  artifacthub.io/prerelease: "{{IS_PRERELEASE}}"
+  artifacthub.io/prerelease: "true"
